@@ -1,0 +1,12 @@
+{
+  "name": "edaus/328/hello",
+  "authors": [
+    {
+      "name": "Ean Daus",
+      "email": "eandaus123@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
